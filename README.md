@@ -1,3 +1,6 @@
-Hola soy dj5783 un estudiante aspirando a crear sus propios videojuegos
-de forma independiente y esperando poder aprender y adentrarme mucho mas
-de lo que ya estoy adetrado en el mundo de la programacion
+import random
+A = random.randint(1, 3)
+if A = 1:
+  print('Pa que leen esto?')
+elif A > 1:
+  print('pa que siguen leyendo esto')
